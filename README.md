@@ -3,7 +3,7 @@
     <div>
       <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN2bXBocHZiMmE3bndiZG5uaWlyeXA0Ynp5ZHZqMHhuZjF2eTFrNCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/YNzUdv6Q7syEJBvotX/200.webp" width="300" align= "left" >
       <h3>Hi 👋, I'm SpecNodes! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ4NHdvZXFhZTl1eDB0d2Fjcmd0cndnMTNhcmhoOWw4c3M3a3pzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLPvC6sLxkbIACCp2L/giphy.gif" width="100" alt="SpecNodes"></h3>
-      <p>A passionate frontend developer from Philippines</p>
+      <p>A passionate Automation engineer from Philippines</p>
   </div>
 </section>
 
